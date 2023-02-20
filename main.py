@@ -42,7 +42,7 @@ inv_file.save("inventory_with_total_value.xlsx")
 
 print("""
 Testing GitHub Repository
-Test 0.0.0.1v
+Test 0.0.2.5v
 """)
 
 print(products_per_supplier)
