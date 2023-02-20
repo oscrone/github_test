@@ -35,7 +35,7 @@ for product_row in range(2, product_list.max_row + 1):
     if inventory < 10:
         prod_under_10[int(product_num)] = int(inventory)
 
-    # add value total lalalalalala kurwrrroooo
+    # add value total lalalalalala
     inventory_price.value = inventory * price
 
 inv_file.save("inventory_with_total_value.xlsx")
